@@ -7,7 +7,7 @@ Web Developer and Tech Enthousiast
 * 🌍  I'm based in Athens,Greece
 * 🖥️  See my portfolio at [ageorgiouweb.dev](http://ageorgiouweb.dev)
 * ✉️  You can contact me at [alexandros.e.georgioy@gmail.com](mailto:alexandros.e.georgioy@gmail.com)
-* 🧠  I'm learning React.JS and PostgreSQL
+* 🧠  I'm learning Vue.JS and MySQL
 * 🤝  I'm open to collaborating on interesting and/or open source projects!
 
 ### Skills
