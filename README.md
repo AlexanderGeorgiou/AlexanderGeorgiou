@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexandros Georgiou
 ====================================
 
-Web Developer and Tech Enthousiast
+Web Developer and Tech Enthusiast
 ----------------------------------
 
 * 🌍  I'm based in Athens,Greece
